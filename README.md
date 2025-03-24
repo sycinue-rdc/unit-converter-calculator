@@ -15,7 +15,7 @@ A simple Java-based unit converter that allows you to convert between common uni
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/unit-converter.git
+   git clone https://github.com/sycinue-rdc/unit-converter.git
    ```
 2. Navigate to the project directory:
    ```sh
